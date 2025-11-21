@@ -1,6 +1,7 @@
-Activo:1
-Dias:1234567
-EnviarLog:1000
-Reiniciar:1
-LeerDetalle:1
-Ruta:WUDescargas
+QWN0aXZv:1
+RGlhcw==:1234567
+RW52aWFyTG9n:1000
+UmVpbmljaWFy:1
+TGVlckRldGFsbGU=:1
+UnV0YQ==:TEMPWUCheck
+
