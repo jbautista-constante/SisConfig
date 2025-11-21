@@ -1,0 +1,6 @@
+Activo:1
+Dias:1234567
+EnviarLog:1000
+Reiniciar:1
+LeerDetalle:1
+Ruta:WUDescargas
