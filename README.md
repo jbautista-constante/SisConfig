@@ -1,0 +1,2 @@
+# SisConfig
+Archivos de configuración
